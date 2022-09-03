@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Book List App',
-      home: DatailScreen(),
+      home: ListScreen(),
     );
   }
 }
